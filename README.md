@@ -17,6 +17,10 @@ To install necessary dependencies, run the following command:
 [npm i]
 
 ## Usage
+https://drive.google.com/file/d/1Rsrvqfi-zG5wii5qBvBCuEEDoTxRvg-4/view?usp=sharing
+https://drive.google.com/file/d/1mg8SBxWw07ukRC3Vmb0o8Mhuc8jwBPHL/view?usp=sharing
+https://drive.google.com/file/d/1y09Hd6so9BgTGgdBJkNnRmiozyuDh77G/view?usp=sharing
+
 In order to use this repo, users must first pull down the repo so that they can have all the necessary dependencies in order for the application to be fully functional. The user can then run the command [mysql -u root -p] and input your password when prompted, the user can then quit the command line and start a new one. The user can then input the command [npm run seed] to connect the database with the sequalize dependency and then run [npm start] to start the application.
 
 ## License
